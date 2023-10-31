@@ -1,0 +1,1 @@
+{"target": {"node": "PetSite", "metric": "latency", "agg": "Average", "timestamp": 1681345141}, "root_cause": {"node": "payforadoption_AWS::ECS::Container", "metric": null}, "metadata": {"reproducibility": {"command": "aws ssm put-parameter --name '/petstore/delaymode1' --value '250' --overwrite"}}}

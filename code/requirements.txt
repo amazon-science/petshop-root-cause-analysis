@@ -1,0 +1,6 @@
+dowhy==0.9.1
+networkx==2.8.8
+numpy==1.23.2
+pandas==1.5.3
+git+https://github.com/salesforce/PyRCA.git#egg=sfr-pyrca
+pingouin==0.5.3

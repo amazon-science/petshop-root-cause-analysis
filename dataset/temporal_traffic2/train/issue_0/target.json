@@ -1,0 +1,1 @@
+{"target": {"node": "PetSite", "metric": "latency", "agg": "Average", "timestamp": 1682054834}, "root_cause": {"node": "PetSearch_AWS::ECS::Fargate", "metric": null}, "metadata": {"reproducibility": {"command": "aws ssm put-parameter --name '/petstore/searchdelay' --value '2000' --overwrite"}}}

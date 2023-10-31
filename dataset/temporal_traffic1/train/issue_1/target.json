@@ -1,0 +1,1 @@
+{"target": {"node": "PetSite", "metric": "availability", "agg": "Average", "timestamp": 1682823527}, "root_cause": {"node": "PetSearch_AWS::ECS::Fargate", "metric": null}, "metadata": {"reproducibility": {"command": "aws ssm put-parameter --name '/petstore/searcherrorpercent' --value '3' --overwrite"}}}

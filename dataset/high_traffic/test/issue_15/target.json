@@ -1,0 +1,1 @@
+{"target": {"node": "PetSite", "metric": "availability", "agg": "Average", "timestamp": 1681341536}, "root_cause": {"node": "petlistadoptions_AWS::ECS::Fargate", "metric": null}, "metadata": {"reproducibility": {"command": "aws ssm put-parameter --name '/petstore/petlisterrorpercent' --value '2' --overwrite"}}}

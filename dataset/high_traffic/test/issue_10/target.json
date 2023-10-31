@@ -1,0 +1,1 @@
+{"target": {"node": "PetSite", "metric": "availability", "agg": "Average", "timestamp": 1681381194}, "root_cause": {"node": "payforadoption_AWS::ECS::Container", "metric": null}, "metadata": {"reproducibility": {"command": "aws ssm put-parameter --name '/petstore/errormode1' --value 'true' --overwrite"}}}

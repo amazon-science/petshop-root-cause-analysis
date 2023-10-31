@@ -1,0 +1,1 @@
+{"target": {"node": "PetSite", "metric": "latency", "agg": "Average", "timestamp": 1681883215}, "root_cause": {"node": "petInfo_AWS::DynamoDB::Table", "metric": null}, "metadata": {"reproducibility": {"command": "python -m issue_dynamo_db_requests -num_iterations=800"}}}
