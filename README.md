@@ -43,7 +43,38 @@ We illustrate how to use the dataset and apply a few different RCA methods relea
  
 See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
 
+## Citing this Dataset
+
+When using this dataset, please cite the following paper:
+
+### Citation
+
+> Hardt, M., Orchard, W.R., Blöbaum, P., Kirschbaum, E. & Kasiviswanathan, S. (2024). The PetShop Dataset — Finding Causes of Performance Issues across Microservices. *Proceedings of the Third Conference on Causal Learning and Reasoning*, in *Proceedings of Machine Learning Research* 236:957-978.
+
+Available at: https://proceedings.mlr.press/v236/hardt24a.html
+
+### BibTeX
+
+```bibtex
+@InProceedings{pmlr-v236-hardt24a,
+  title     = {The PetShop Dataset — Finding Causes of Performance Issues across Microservices},
+  author    = {Hardt, Michaela and Orchard, William Roy and Bl\"obaum, Patrick and 
+               Kirschbaum, Elke and Kasiviswanathan, Shiva},
+  booktitle = {Proceedings of the Third Conference on Causal Learning and Reasoning},
+  pages     = {957--978},
+  year      = {2024},
+  editor    = {Locatello, Francesco and Didelez, Vanessa},
+  volume    = {236},
+  series    = {Proceedings of Machine Learning Research},
+  month     = {01--03 Apr},
+  publisher = {PMLR},
+  pdf       = {https://proceedings.mlr.press/v236/hardt24a/hardt24a.pdf},
+  url       = {https://proceedings.mlr.press/v236/hardt24a.html}
+}
+```
+
 ## Licenses
 
 The code of the project is licensed under the Apache-2.0 License.
+
 The dataset of the project is licensed under the CC-BY-4.0 License.
